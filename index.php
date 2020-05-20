@@ -9,7 +9,7 @@
 <label>Name:</label><input type="text">
 <label>Picture:</label>
 <img src="/hoa.img" alt="">
-<a href="https://www.facebook.com/ciaohou/" title="my facebook:"></a>
+<a href="https://www.facebook.com/ciaohou/" title="my facebook:">https://www.facebook.com/ciaohou/</a>
 </form>
 </body>
 </html>
