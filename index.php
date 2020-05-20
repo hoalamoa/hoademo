@@ -6,9 +6,9 @@
 <body>
 <h1>Profile</h1>
 <form action="">
-<label>Name:</label><input type="text">
+<label>Name:</label><input type="text"><br>
 <label>Picture:</label>
-<img src="/hoa.img" alt="">
+<img src="/hoa.img" alt=""><br>
 <a href="https://www.facebook.com/ciaohou/" title="my facebook:">https://www.facebook.com/ciaohou/</a>
 </form>
 </body>
